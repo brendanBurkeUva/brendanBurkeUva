@@ -1,2 +1,2 @@
 # *Who am I?*  
-I'm Brendan Burke, computer science student at UVa, stueying cybersecurity and various computer science topics.
+I'm Brendan Burke, graduate of UVa in computer science and cybersecurity.
